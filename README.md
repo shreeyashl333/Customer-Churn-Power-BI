@@ -28,7 +28,7 @@ I:
 - Shared important findings: Summarized data nicely focusing on what matters.
 - Tailored messages: Adjusted my language to match the client's knowledge level.
 - Suggested actions: Gave specific advice on what to do next.
-![Email](https://github.com/shreeyashl333/Customer-Churn-Power-BI/blob/main/Email.png)
+![Email](https://github.com/shreeyashl333/Assets/blob/main/Cust_Curn_PBI/Email.png)
 
 
 **Get Started:**
